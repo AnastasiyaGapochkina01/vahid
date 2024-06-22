@@ -33,7 +33,7 @@ sleep 5m
 
 Создать директорию zombie_c и в ней файл zombie 
 ```
-vim zombie
+vim zombie_c/zombie
 ```
 содержимое файла
 ```
